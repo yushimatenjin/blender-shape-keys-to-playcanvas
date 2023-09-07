@@ -72,7 +72,14 @@ for key in shape_keys[1:1+loop_count]:  # Basisはスキップし、ループを
 
 ![](./docs/export-1.png)
 
+
+## PlayCanvas
+
 このデータをPlayCanvasにインポートし、AnimStateGraphでアニメーション制御します。
+
+![](./docs/state-graph.png)
+
+![](./docs/anims.png)
 
 PlayCanvasで設定しているプロジェクトはこちら：
 

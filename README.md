@@ -74,12 +74,24 @@ for key in shape_keys[1:1+loop_count]:  # Skip the Basis and limit the loop to 5
 
 ![](/docs/export-1.png)
 
+
+## PlayCanvas
+
 Import this data into PlayCanvas and control the animation with AnimStateGraph.
+
+![](./docs/state-graph.png)
+
+![](./docs/anims.png)
+
 
 The project set up in PlayCanvas can be found here:
 
 - **Project URL:** [https://playcanvas.com/project/1135434](https://playcanvas.com/project/1135434)
 - **Execution URL:** [https://playcanv.as/p/Q7eDemqq/](https://playcanv.as/p/Q7eDemqq/)
+
+
+
+
 
 ### Model Used
 
