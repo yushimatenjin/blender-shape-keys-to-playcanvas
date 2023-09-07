@@ -1,3 +1,5 @@
+[日本語 (Japanese README.md)](./README-ja.md)
+
 This is a Blender script for animating shape keys and exporting them as GLB. By animating, you can control the animation with PlayCanvas's AnimStateGraph.
 
 ## How to Use
