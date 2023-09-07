@@ -24,7 +24,7 @@ Select "Scripting" and switch the view.
 
 ### 4. Execute the Script
 
-![](/docs/blender-scripting-2.png)
+![](./docs/blender-scripting-3.png)
 
 - Select the object.
 - Set the destination directory.

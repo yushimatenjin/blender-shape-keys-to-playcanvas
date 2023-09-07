@@ -22,7 +22,7 @@
 
 ### 4. スクリプトの実行
 
-![](./docs/blender-scripting-2.png)
+![](./docs/blender-scripting-3.png)
 
 1. オブジェクトを選択
 2. 保存先のディレクトリを設定
